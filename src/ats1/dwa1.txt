@@ -1,0 +1,8 @@
+this file is entirely created for the purpose of 
+documeting mainly the functions that i believe will 
+going to be reused to make other games. 
+
+
+//DialogBox.js:
+this is literally the fucking code for dialog box i copied from smwhere, idk idc gfurself. 
+//one change this needs is ive to make it un skippable initially. once the player has completed the game, he/she will then get the option to fast click and go through all the messages. 

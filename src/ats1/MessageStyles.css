@@ -1,0 +1,6 @@
+.dialog-message {
+    font-size: 18px;
+    color: rgb(114, 9, 9); /* White text */
+    text-transform: uppercase;
+    font-weight: bold;
+}

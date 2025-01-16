@@ -1,0 +1,30 @@
+[
+    
+    
+    {
+    "id":0,
+    "name":"chapter 0",
+    "details":"This is here for just to serve as an example how you are supposed to lay your stuff"
+    },
+    {
+    "id": 1,
+    "name": "chapter 1",
+    "details": "garden hose, water landmine, water grenade over the stinlky femcel"
+    },
+    {
+    "id": 2,
+    "name": "chapter 2",
+    "details": "qwertew"
+    },
+    {
+    "id": 3,
+    "name": "chapter 3",
+    "details": "wefewfewfew"
+    },
+    {
+        "id": 4,
+        "name": "final_chapter",
+        "details": "hello everyone"
+    }
+
+    ]

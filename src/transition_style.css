@@ -1,0 +1,12 @@
+.background-container {
+  height: 100vh; /* Full screen */
+  width: 100%; /* Full width */
+  background-size: cover; /* Ensures the image covers the entire area */
+  background-position: center; /* Centers the background */
+}
+
+  
+  .background-container.fade {
+    opacity: 0; /* Fades out during the transition */
+  }
+  
